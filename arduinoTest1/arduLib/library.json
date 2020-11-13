@@ -1,12 +1,12 @@
 {
-    "name": "Seeed ArduPy BME280 ",
+    "name": "Name Print ",
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Seeed-Studio/seeed-ardupy-bme280.git"
+        "url": "https://github.com/milandahal213/ardupytests/tree/master/arduinoTest1/arduLib"
     },
     "dependencies": [{
-        "name": "Seeed_Arduino_BME280",
-        "url": "https://github.com/Seeed-Studio/Grove_BME280.git"
+        "name": "Name Print",
+        "url": "https://github.com/milandahal213/ardupytests/tree/master/arduinoTest1/aruduinoLib/"
     }]
 }
